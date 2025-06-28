@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Frontend Development, React Ecosystem, GSAP Animations**
 
-- 📫 How to reach me **jayendrabamne2003@gmail.com**
+- 📫 How to reach me **jayendrabamne68@gmail.com**
 
 - ⚡ Fun fact **💡 "I don’t always fix bugs, but when I do, I have no idea how I did it."**
 
